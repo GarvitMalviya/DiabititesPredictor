@@ -7,3 +7,6 @@ Dataset: https://www.dropbox.com/s/uh7o7uyeghqkhoy/diabetes.csv?dl=0
 1. Python
 2. Html
 3. Machine Learning Model: Support Vector Machine
+
+# Deployed on Heroku
+https://diabities-predictor.herokuapp.com/
